@@ -1,0 +1,21 @@
+.main-content {
+	margin-top:20px;
+  }
+  
+  .block-container {
+	width: 20%;
+	float:left;
+  }
+  
+  .dice {
+	border-radius: 5px;
+	width:10px;
+	height:20px;
+	color: rgb(255, 0, 225);
+  }
+  .img{
+	width: 10px;
+	height: 10px;
+	color: rgb(204, 255, 0);
+  }
+  
